@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: ros2-np-multiarray
+Version: 0.1.1
+Summary: Convert between numpy ndarray and ROS2 multiarray message
+Maintainer: Youshaa Murhij
+Maintainer-email: yosha.morheg@gmail.com
+License: BSD
